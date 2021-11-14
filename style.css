@@ -1,4 +1,8 @@
 body {
   background-color: #c2ff89;
-  color: #dddddd;
+  color: black;
+}
+.maincontent {
+  padding: 10%;
+  border: 4px dashed black;
 }
