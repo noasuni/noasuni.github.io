@@ -1,6 +1,10 @@
 body {
-  background-color: #c2ff89;
-  color: black;
+  background-color: #35a173;
+  color: white;
+}
+.headline {
+  width: 100%;
+  height: 60px;
 }
 .maincontent {
   padding: 10%;
