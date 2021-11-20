@@ -19,7 +19,6 @@ body {
 }
 .maincontent {
   background-color: #35a173;
-  padding: 10%;
+  padding: 30px 10% 10% 10%;
   color: white;
-  border: 4px dashed black;
 }
