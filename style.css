@@ -21,4 +21,6 @@ body {
   background-color: #35a173;
   padding: 30px 10% 10% 10%;
   color: white;
+  text-align: justify;
+  text-justify: inter-word;
 }
