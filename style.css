@@ -1,9 +1,20 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
   background-color: white;
   color: black;
 }
 .headline {
   width: 100%;
+  background-color: #35a173;
+  height: 20px;
+}
+.headline2 {
+  width: 100%;
+  background-color: white;
   height: 60px;
 }
 .maincontent {
